@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Saif Ullah 👋
 
-<!--
-**saifullahbangash01/saifullahbangash01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | WordPress Developer | SEO Specialist
 
-Here are some ideas to get you started:
+I'm a passionate Web Developer specializing in modern, responsive,
+SEO-friendly websites and WordPress solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Web Development
+- WordPress Development
+- Elementor
+- WooCommerce
+- React.js
+- JavaScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+- SEO
+- On-Page SEO
+- Technical SEO
+- Website Optimization
+
+## 💼 What I Do
+
+- 🌐 Modern & Responsive Websites
+- 🖥️ WordPress Website Development
+- 🛒 WooCommerce Development
+- ⚛️ React.js Development
+- 🚀 Website Performance Optimization
+- 🔍 SEO & Search Engine Optimization
+
+## 🌐 Connect With Me
+
+- 💼 Portfolio: [YOUR_PORTFOLIO_LINK](https://saif-ullah-portfolio-swart.vercel.app/)
+- 🔗 LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/saifullahbangash/)
+- 📸 Instagram: [YOUR_INSTAGRAM_LINK](https://www.instagram.com/saifullahbangash480/)
+
+---
+
+### 👨‍💻 Web Developer | WordPress Developer | SEO Specialist
