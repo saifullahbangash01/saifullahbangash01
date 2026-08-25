@@ -361,6 +361,12 @@ If you have a project, business website or existing website that needs improveme
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+### 📸 Instagram
+
+<a href="https://www.instagram.com/saifullahbangash480/">
+<img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 ### 📧 Contact
 
 <a href="mailto:saifbangash480@gmail.com">
