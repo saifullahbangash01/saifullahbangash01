@@ -149,25 +149,7 @@ A great website should be:
 | API Integration | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=6366F1&suffix=%25) |
 | Git & GitHub | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=F05032&suffix=%25) |
 
-</div>
-
----
-
-## 📊 GitHub Stats
- 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah-dev&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
+</div> 
 
 ---
 
