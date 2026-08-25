@@ -95,17 +95,17 @@
 
 | Service | What's Included |
 |---|---|
-| 🌐 **Web Development** | Modern, scalable, and user-friendly websites built with clean and maintainable code |
-| 🎨 **Custom Web Design** | Unique UI designs, modern layouts, custom components, and conversion-focused interfaces |
-| ⚛️ **React.js Development** | React components, Hooks, React Router, API integration, reusable components, and modern web applications |
-| 📱 **Responsive Website Development** | Mobile-first, tablet-friendly, and fully responsive websites for all screen sizes |
-| 📝 **WordPress Development** | Custom WordPress websites, Elementor, WooCommerce, theme customization, and website maintenance |
-| 🔍 **SEO Optimization** | Complete SEO strategies to improve search visibility, rankings, traffic, and website structure |
-| 📄 **On-Page SEO** | Keyword optimization, meta titles, meta descriptions, headings, internal linking, image SEO, and content optimization |
-| 🔗 **Off-Page SEO** | Quality backlink strategies, link building, competitor analysis, and website authority improvement |
-| ⚙️ **Technical SEO** | Technical audits, crawlability, indexing, sitemap, robots.txt, schema markup, and Core Web Vitals |
-| ⚡ **Performance Optimization** | Website speed optimization, image compression, lazy loading, code optimization, caching, and Core Web Vitals |
-| 🐛 **Bug Fixes & Troubleshooting** | Frontend bugs, WordPress issues, responsive problems, JavaScript errors, broken layouts, and website troubleshooting |
+| 🌐 **Web Development** | Modern, scalable & clean websites |
+| 🎨 **Custom Web Design** | Unique UI, layouts & components |
+| ⚛️ **React.js Development** | React, Hooks, Router & API integration |
+| 📱 **Responsive Websites** | Mobile, tablet & desktop friendly |
+| 📝 **WordPress Development** | WordPress, Elementor & WooCommerce |
+| 🔍 **SEO Optimization** | SEO strategy, keywords & rankings |
+| 📄 **On-Page SEO** | Meta tags, headings, content & internal links |
+| 🔗 **Off-Page SEO** | Backlinks, link building & authority |
+| ⚙️ **Technical SEO** | Crawling, indexing, sitemap & schema |
+| ⚡ **Performance Optimization** | Speed, images, caching & Core Web Vitals |
+| 🐛 **Bug Fixes** | Frontend, WordPress & responsive issues |
 
 </div>
 
