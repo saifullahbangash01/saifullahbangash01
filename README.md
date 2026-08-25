@@ -257,7 +257,7 @@ I work on SEO from both the **search engine** and **technical website** perspect
 A modern responsive developer portfolio showcasing professional skills, services, projects and experience.
 
 🔗 **Live:**
-https://saif-ullah-react-web-developer.vercel.app/
+ https://saif-ullah-portfolio-swart.vercel.app/
 
 ---
 
@@ -288,7 +288,7 @@ A responsive e-commerce application with product browsing, cart functionality, s
 Professional WordPress websites developed using responsive layouts, Elementor, WooCommerce and SEO-focused optimization.
 
 🔗 **Portfolio:**
-https://saif-ullah-react-web-developer.vercel.app/
+ https://saif-ullah-portfolio-swart.vercel.app/
 
 ---
 
