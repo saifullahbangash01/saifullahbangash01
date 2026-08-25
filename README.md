@@ -5,15 +5,13 @@
 ### 🚀 Web Developer • React.js Developer • WordPress Developer • SEO
 
 <p>
-  <a href="https://saif-ullah-react-web-developer.vercel.app/">
+  <a href="https://saif-ullah-portfolio-swart.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/saifullahbangash/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/saifullah-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c6ff&height=120&section=header" width="100%" />
@@ -345,19 +343,19 @@ If you have a project, business website or existing website that needs improveme
 
 ### 🌐 Portfolio
 
-<a href="https://saif-ullah-react-web-developer.vercel.app/">
+<a href="https://saif-ullah-portfolio-swart.vercel.app/">
 <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 ### 💼 LinkedIn
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/saifullahbangash/">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ### 📧 Contact
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:saifbangash480@gmail.com">
 <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
