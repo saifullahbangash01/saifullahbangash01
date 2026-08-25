@@ -4,14 +4,22 @@
 
 ### 🚀 Web Developer • React.js Developer • WordPress Developer • SEO
 
-<p>
+<p align="center">
   <a href="https://saif-ullah-portfolio-swart.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/saifullahbangash/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+  &nbsp;
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c6ff&height=120&section=header" width="100%" />
