@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 <table>
 <tr>
@@ -89,7 +89,7 @@
 
 ## 🚀 Services I Offer
 
-<div align="center">
+<div align="start">
 
 | Service | What's Included |
 |---|---|
@@ -135,7 +135,7 @@ A great website should be:
 
 ## 📊 Skills Overview
 
-<div align="center">
+<div align="start">
 
 | Skill | Proficiency |
 |---|---|
@@ -155,7 +155,7 @@ A great website should be:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06B6D4&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
@@ -170,14 +170,14 @@ A great website should be:
 
 ## 📬 Get In Touch
 
-<div align="center">
+<div align="start">
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [saif-ullah-react-web-developer.vercel.app](https://saif-ullah-react-web-developer.vercel.app/) |
-| 🐙 GitHub | [github.com/saifullah-dev](https://github.com/saifullah-dev) |
-| 💼 LinkedIn | [Add your LinkedIn profile URL here](https://linkedin.com/in/your-profile) |
-| 📧 Email | [Add your professional email here](mailto:your-email@example.com) |
+| 🌐 Portfolio | [saif-ullah-portfolio-swart.vercel.app](https://saif-ullah-portfolio-swart.vercel.app/) |
+| 📸 Instagram | [instagram.com/saifullahbangash480](https://www.instagram.com/saifullahbangash480/) |
+| 💼 LinkedIn | [linkedin.com/in/saifullahbangash](https://www.linkedin.com/in/saifullahbangash/) |
+| 📧 Email | [saifbangash480@gmail.com](mailto:saifbangash480@gmail.com) |
 
 </div>
 
