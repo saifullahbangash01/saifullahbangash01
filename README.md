@@ -154,15 +154,18 @@ A great website should be:
 ---
 
 ## 📊 GitHub Stats
+ 
+<div align="center">
 
-<div align="start">
+<img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06B6D4&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=6366F1&point=ffffff" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah-dev&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
