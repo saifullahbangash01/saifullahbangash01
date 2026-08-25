@@ -1,15 +1,19 @@
 <div align="center">
 
-# Hi, I'm Saif Ullah Bangash 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Saif%20Ullah%20Bangash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React.js%20%7C%20WordPress%20%7C%20SEO%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
-### Web Developer • React.js Developer • WordPress Developer • SEO Specialist
+<a href="https://saif-ullah-react-web-developer.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+responsive+websites;React.js+%26+WordPress+Developer;SEO+%26+Performance+Specialist;Let's+build+something+great!&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-I build modern, responsive, high-performance, and SEO-friendly websites that turn business requirements into professional digital experiences.
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saif-ullah-react-web-developer.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+<img src="https://komarev.com/ghpvc/?username=saifullah-dev&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -130,9 +134,24 @@ A great website should be:
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 🤝 Let's Build Something Great Together
+<img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06B6D4&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=6366F1&point=ffffff" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Together
 
 Open to **Web Development, React.js, WordPress, SEO, and freelance** opportunities.
 
@@ -141,3 +160,5 @@ Open to **Web Development, React.js, WordPress, SEO, and freelance** opportuniti
 ⭐️ Thanks for visiting my profile — feel free to connect!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
