@@ -1,380 +1,195 @@
 <div align="center">
 
-# 👋 Hi, I'm **Saif Ullah Bangash**
-
-### 🚀 Web Developer • React.js Developer • WordPress Developer • SEO
-
-<p>
-  <a href="https://saif-ullah-react-web-developer.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saifullah-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c6ff&height=120&section=header" width="100%" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Web Developer** focused on building modern, responsive, high-performance and SEO-friendly digital experiences.
-
-I work across **Frontend Development, React.js, WordPress and SEO**, helping businesses transform their ideas into professional websites that are designed for both **users and search engines**.
-
-```text
-💻 Web Development
-⚛️ React.js Development
-🌐 WordPress Development
-🔍 SEO & Technical SEO
-⚡ Website Performance
-📱 Responsive & Mobile-First Design
-🛠️ Website Maintenance & Optimization
-```
-
-My development philosophy is simple:
-
-> **Build it clean. Make it fast. Keep it responsive. Optimize it for search.**
-
----
-
-# 💻 Web Development
-
-I develop modern websites and web applications with a strong focus on:
-
-* Responsive design
-* Mobile-first development
-* Clean and reusable code
-* Modern UI/UX
-* Performance optimization
-* API integration
-* Cross-browser compatibility
-* Maintainable architecture
-* SEO-friendly development
-
-### What I Build
-
-| Development              | Solutions                              |
-| ------------------------ | -------------------------------------- |
-| 🌐 Business Websites     | Professional responsive websites       |
-| ⚛️ React Applications    | Interactive modern web applications    |
-| 🛒 E-commerce            | Product, cart and checkout experiences |
-| 📊 Admin Dashboards      | CRUD dashboards and management systems |
-| 🎯 Landing Pages         | Conversion-focused landing pages       |
-| 👨‍💻 Portfolio Websites | Personal & professional portfolios     |
-| 🔧 Website Maintenance   | Bug fixing & continuous improvements   |
-
----
-
-# ⚛️ React.js Development
-
-I use **React.js** to build scalable and interactive frontend applications.
-
-### React Stack
-
-```text
-React.js
-├── JSX
-├── Functional Components
-├── React Hooks
-├── React Router
-├── Context API
-├── Redux Toolkit
-├── REST APIs
-├── Fetch API
-├── CRUD Operations
-├── Form Validation
-└── Responsive UI
-```
-
-### React Development Includes
-
-* Component-based architecture
-* Reusable UI components
-* State management
-* API integration
-* Authentication interfaces
-* CRUD functionality
-* Dynamic routing
-* Form handling
-* Responsive layouts
-* Performance optimization
-
----
-
-# 🌐 WordPress Development
-
-I create and manage professional **WordPress websites** designed around business requirements.
-
-### WordPress Services
-
-* Custom WordPress websites
-* Elementor development
-* Theme customization
-* Plugin configuration
-* WooCommerce stores
-* Product page development
-* Header & footer development
-* Responsive optimization
-* Website migration
-* Bug fixing
-* Website maintenance
-* WordPress SEO
-* Speed optimization
-
-### WordPress Workflow
-
-```text
-Business Requirements
-        ↓
-Website Structure
-        ↓
-UI / Design
-        ↓
-WordPress Development
-        ↓
-Responsive Optimization
-        ↓
-SEO Implementation
-        ↓
-Performance Testing
-        ↓
-Deployment
-```
-
----
-
-# 🔍 SEO & Website Optimization
-
-I work on SEO from both the **search engine** and **technical website** perspective.
-
-## 🔧 Technical SEO
-
-* Technical SEO Audits
-* Crawlability
-* Indexability
-* XML Sitemap
-* Robots.txt
-* Canonical URLs
-* URL Structure
-* Redirects
-* Broken Links
-* Internal Linking
-* Mobile SEO
-* Core Web Vitals
-
-## 📝 On-Page SEO
-
-* Keyword Research
-* SEO Titles
-* Meta Descriptions
-* Heading Optimization
-* Content Optimization
-* Image SEO
-* Alt Text
-* Internal Linking
-* URL Optimization
-* Content Structure
-
-## ⚡ Performance Optimization
-
-* Image compression
-* Responsive images
-* Lazy loading
-* LCP optimization
-* Core Web Vitals
-* CSS optimization
-* JavaScript optimization
-* Page speed improvements
-* Mobile performance
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-### Styling
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-
-### WordPress & CMS
-
-<img src="https://skillicons.dev/icons?i=wordpress" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</div>
-
----
-
-# 🚀 Services
-
-<div align="center">
-
-| 💻 Web Development | ⚛️ React.js               |
-| ------------------ | ------------------------- |
-| Custom Websites    | Modern React Applications |
-| Responsive UI      | API Integration           |
-| Landing Pages      | Redux / Context API       |
-| E-commerce         | Reusable Components       |
-
-| 🌐 WordPress      | 🔍 SEO               |
-| ----------------- | -------------------- |
-| Business Websites | Technical SEO        |
-| Elementor         | On-Page SEO          |
-| WooCommerce       | Keyword Optimization |
-| Maintenance       | Core Web Vitals      |
-
-</div>
-
----
-
-# 📂 Featured Projects
-
-### 01. ⚛️ React Portfolio
-
-**Tech:** React.js • Tailwind CSS • Framer Motion
-
-A modern responsive developer portfolio showcasing professional skills, services, projects and experience.
-
-🔗 **Live:**
-https://saif-ullah-react-web-developer.vercel.app/
-
----
-
-### 02. 📊 React Admin Dashboard
-
-**Tech:** React.js • Tailwind CSS • Context API • REST API
-
-A modern admin dashboard featuring reusable components, authentication UI, CRUD operations and API integration.
-
-🔗 **Repository:**
-`Add GitHub Repository Link`
-
----
-
-### 03. 🛒 React E-commerce
-
-**Tech:** React.js • Tailwind CSS • Redux Toolkit • REST API
-
-A responsive e-commerce application with product browsing, cart functionality, state management and API integration.
-
-🔗 **Repository:**
-`Add GitHub Repository Link`
-
----
-
-### 04. 🌐 WordPress Websites
-
-Professional WordPress websites developed using responsive layouts, Elementor, WooCommerce and SEO-focused optimization.
-
-🔗 **Portfolio:**
-https://saif-ullah-react-web-developer.vercel.app/
-
----
-
-# 📈 My Development Process
-
-```text
-┌─────────────────────────────┐
-│     01. Requirements        │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     02. Planning & UX       │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     03. Development         │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     04. Responsive Testing  │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     05. SEO Optimization    │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     06. Performance Testing │
-└──────────────┬──────────────┘
-               ↓
-┌─────────────────────────────┐
-│     07. Deployment          │
-└─────────────────────────────┘
-```
-
----
-
-# 🎯 What I Focus On
-
-```text
-Clean Code             ████████████████████
-Responsive Design      ████████████████████
-Performance            ███████████████████░
-SEO                    ██████████████████░░
-User Experience        ████████████████████
-Maintainability        ███████████████████░
-```
-
----
-
-# 🤝 Let's Work Together
-
-I'm open to opportunities related to:
-
-**Web Development • React.js • WordPress • SEO • Website Optimization • Freelance Projects**
-
-If you have a project, business website or existing website that needs improvement, feel free to connect.
-
-<div align="center">
-
-### 🌐 Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Saif%20Ullah%20Bangash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React.js%20%7C%20WordPress%20%7C%20SEO%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://saif-ullah-react-web-developer.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+responsive+websites;React.js+%26+WordPress+Developer;SEO+%26+Performance+Specialist;Let's+build+something+great!&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
-### 💼 LinkedIn
+<br/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saif-ullah-react-web-developer.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-### 📧 Contact
+<img src="https://komarev.com/ghpvc/?username=saifullah-dev&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="profile views"/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
 
 ---
 
-### 💻 Web Development
+## 🧭 About Me
 
-### 🌐 WordPress
+- 💻 Web Developer specializing in **React.js & Modern Frontend Development**
+- ⚛️ Building responsive, interactive interfaces with **React.js, Hooks, Redux Toolkit**
+- 🌐 Developing professional websites with **WordPress & Elementor**
+- 🎨 Crafting custom, responsive UI with **Tailwind CSS & Bootstrap**
+- 🔍 Hands-on with **Technical SEO & On-Page SEO**
+- 🚀 Obsessed with **Website Performance & Core Web Vitals**
+- 📱 Mobile-first thinking on every project
+- 🔗 Comfortable with **REST APIs, Git & GitHub**
 
-### 🔍 SEO
+---
 
-### ⚡ Performance
+## 🛠️ Tech Stack
 
-<br>
+<div align="center">
 
-**Thanks for visiting my GitHub profile! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:6e40c9&height=100&section=footer" width="100%" />
+<table>
+<tr>
+<th align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</td>
+</tr>
+<tr>
+<td><b>Styling</b></td>
+<td>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>CMS</b></td>
+<td>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>State & API</b></td>
+<td>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools & Hosting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 🚀 Services I Offer
+
+<div align="center">
+
+| Service | What's Included |
+|---|---|
+| ⚛️ **React.js Development** | Component architecture, Hooks, Context API, Redux Toolkit, React Router, API integration, form validation, production-ready builds |
+| 🌐 **WordPress Development** | Custom business websites, Elementor pages, WooCommerce stores, theme customization, migration, maintenance |
+| 🔍 **SEO Optimization** | Technical SEO audits, on-page SEO, keyword research, meta tags, internal linking, image SEO, local SEO |
+| ⚡ **Performance Engineering** | Image optimization, lazy loading, code splitting, minification, LCP & Core Web Vitals improvements |
+| 🎨 **UI/UX with Tailwind & Bootstrap** | Custom responsive layouts, modern components, animations with Framer Motion |
+| 🔧 **Website Maintenance** | Bug fixing, updates, speed monitoring, ongoing support |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| 🖥️ **React Portfolio** | React.js, Tailwind CSS, Framer Motion | Responsive developer portfolio with skills, services, and projects |
+| 📊 **React Admin Dashboard** | React.js, Tailwind CSS, Context API, REST API | Dashboard with auth UI, reusable components, and CRUD functionality |
+| 🛒 **React E-commerce Website** | React.js, Tailwind CSS, Redux Toolkit, REST API | Full e-commerce flow with cart, state management, and API integration |
+| 🌐 **WordPress Business Websites** | WordPress, Elementor, WooCommerce | SEO-optimized, responsive business websites |
+
+---
+
+## 📈 My Development Process
+
+```
+Business Requirements → Planning & Research → UI/UX Structure → Development
+       → Responsive Testing → SEO Optimization → Performance Optimization
+       → Testing & Bug Fixing → Deployment → Maintenance
+```
+
+A great website should be:
+**⚡ Fast · 📱 Responsive · 🔍 SEO-Friendly · 🔒 Secure · 🎯 User-Friendly**
+
+---
+
+## 📊 Skills Overview
+
+<div align="center">
+
+| Skill | Proficiency |
+|---|---|
+| Web Development | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=06B6D4&suffix=%25) |
+| React.js | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=6366F1&suffix=%25) |
+| WordPress | ![](https://progress-bar.dev/90/?scale=100&title=&width=200&color=21759B&suffix=%25) |
+| Responsive Design | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=06B6D4&suffix=%25) |
+| SEO | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=0F9D58&suffix=%25) |
+| Website Optimization | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=F4B400&suffix=%25) |
+| WooCommerce | ![](https://progress-bar.dev/80/?scale=100&title=&width=200&color=96588A&suffix=%25) |
+| API Integration | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=6366F1&suffix=%25) |
+| Git & GitHub | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=F05032&suffix=%25) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saifullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=06B6D4&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=6366F1&point=ffffff" width="100%" />
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [saif-ullah-react-web-developer.vercel.app](https://saif-ullah-react-web-developer.vercel.app/) |
+| 🐙 GitHub | [github.com/saifullah-dev](https://github.com/saifullah-dev) |
+| 💼 LinkedIn | [Add your LinkedIn profile URL here](https://linkedin.com/in/your-profile) |
+| 📧 Email | [Add your professional email here](mailto:your-email@example.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Together
+
+Open to **Web Development, React.js, WordPress, SEO, and freelance** opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saif-ullah-react-web-developer.vercel.app/)
+
+⭐️ Thanks for visiting my profile — feel free to connect!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
