@@ -73,6 +73,17 @@
 </td>
 </tr>
 <tr>
+<td><b>SEO & Optimization</b></td>
+<td>
+<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/On--Page_SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yoast_SEO-A4286A?style=flat-square&logo=yoast&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rank_Math-E84033?style=flat-square&logo=wordpress&logoColor=white"/>
+</td>
+</tr>
+<tr>
 <td><b>Tools & Hosting</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
