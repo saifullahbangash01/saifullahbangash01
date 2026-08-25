@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullahbangash/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifbangash480@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=saifullah-dev&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="profile views"/>
-
 </div>
 
 ---
