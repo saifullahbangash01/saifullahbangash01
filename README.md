@@ -95,12 +95,17 @@
 
 | Service | What's Included |
 |---|---|
-| ⚛️ **React.js Development** | Component architecture, Hooks, Context API, Redux Toolkit, React Router, API integration, form validation, production-ready builds |
-| 🌐 **WordPress Development** | Custom business websites, Elementor pages, WooCommerce stores, theme customization, migration, maintenance |
-| 🔍 **SEO Optimization** | Technical SEO audits, on-page SEO, keyword research, meta tags, internal linking, image SEO, local SEO |
-| ⚡ **Performance Engineering** | Image optimization, lazy loading, code splitting, minification, LCP & Core Web Vitals improvements |
-| 🎨 **UI/UX with Tailwind & Bootstrap** | Custom responsive layouts, modern components, animations with Framer Motion |
-| 🔧 **Website Maintenance** | Bug fixing, updates, speed monitoring, ongoing support |
+| 🌐 **Web Development** | Modern, scalable, and user-friendly websites built with clean and maintainable code |
+| 🎨 **Custom Web Design** | Unique UI designs, modern layouts, custom components, and conversion-focused interfaces |
+| ⚛️ **React.js Development** | React components, Hooks, React Router, API integration, reusable components, and modern web applications |
+| 📱 **Responsive Website Development** | Mobile-first, tablet-friendly, and fully responsive websites for all screen sizes |
+| 📝 **WordPress Development** | Custom WordPress websites, Elementor, WooCommerce, theme customization, and website maintenance |
+| 🔍 **SEO Optimization** | Complete SEO strategies to improve search visibility, rankings, traffic, and website structure |
+| 📄 **On-Page SEO** | Keyword optimization, meta titles, meta descriptions, headings, internal linking, image SEO, and content optimization |
+| 🔗 **Off-Page SEO** | Quality backlink strategies, link building, competitor analysis, and website authority improvement |
+| ⚙️ **Technical SEO** | Technical audits, crawlability, indexing, sitemap, robots.txt, schema markup, and Core Web Vitals |
+| ⚡ **Performance Optimization** | Website speed optimization, image compression, lazy loading, code optimization, caching, and Core Web Vitals |
+| 🐛 **Bug Fixes & Troubleshooting** | Frontend bugs, WordPress issues, responsive problems, JavaScript errors, broken layouts, and website troubleshooting |
 
 </div>
 
