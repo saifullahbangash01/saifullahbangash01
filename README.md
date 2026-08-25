@@ -132,41 +132,7 @@ A great website should be:
 **⚡ Fast · 📱 Responsive · 🔍 SEO-Friendly · 🔒 Secure · 🎯 User-Friendly**
 
 ---
-
-## 📊 Skills Overview
-
-<div align="start">
-
-| Skill | Proficiency |
-|---|---|
-| Web Development | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=06B6D4&suffix=%25) |
-| React.js | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=6366F1&suffix=%25) |
-| WordPress | ![](https://progress-bar.dev/90/?scale=100&title=&width=200&color=21759B&suffix=%25) |
-| Responsive Design | ![](https://progress-bar.dev/95/?scale=100&title=&width=200&color=06B6D4&suffix=%25) |
-| SEO | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=0F9D58&suffix=%25) |
-| Website Optimization | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=F4B400&suffix=%25) |
-| WooCommerce | ![](https://progress-bar.dev/80/?scale=100&title=&width=200&color=96588A&suffix=%25) |
-| API Integration | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=6366F1&suffix=%25) |
-| Git & GitHub | ![](https://progress-bar.dev/85/?scale=100&title=&width=200&color=F05032&suffix=%25) |
-
-</div> 
-
----
-
-## 📬 Get In Touch
-
-<div align="start">
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [saif-ullah-portfolio-swart.vercel.app](https://saif-ullah-portfolio-swart.vercel.app/) |
-| 📸 Instagram | [instagram.com/saifullahbangash480](https://www.instagram.com/saifullahbangash480/) |
-| 💼 LinkedIn | [linkedin.com/in/saifullahbangash](https://www.linkedin.com/in/saifullahbangash/) |
-| 📧 Email | [saifbangash480@gmail.com](mailto:saifbangash480@gmail.com) |
-
-</div>
-
----
+ 
 
 <div align="center">
 
