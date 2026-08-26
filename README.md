@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Saif%20Ullah%20Bangash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React.js%20%7C%20WordPress%20%7C%20SEO%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A93E,100:F7D26B&height=200&section=header&text=Saif%20Ullah%20Bangash&fontSize=42&fontColor=0d0620&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React.js%20%7C%20WordPress%20%7C%20SEO%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://saif-ullah-portfolio-swart.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+responsive+websites;React.js+%26+WordPress+Developer;SEO+%26+Performance+Specialist;Let's+build+something+great!&font=Fira+Code&center=true&width=520&height=45&color=06B6D4&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+responsive+websites;React.js+%26+WordPress+Developer;SEO+%26+Performance+Specialist;Let's+build+something+great!&font=Fira+Code&center=true&width=520&height=45&color=D9A93E&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saif-ullah-portfolio-swart.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D9A93E?style=for-the-badge&logo=vercel&logoColor=0d0620)](https://saif-ullah-portfolio-swart.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saifullahbangash480/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullahbangash/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifbangash480@gmail.com)
@@ -51,7 +51,7 @@
 <tr>
 <td><b>Styling</b></td>
 <td>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-D9A93E?style=flat-square&logo=tailwindcss&logoColor=0d0620"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
 </td>
@@ -68,14 +68,14 @@
 <td><b>State & API</b></td>
 <td>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-D9A93E?style=flat-square&logo=fastapi&logoColor=0d0620"/>
 <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </td>
 </tr>
 <tr>
 <td><b>SEO & Optimization</b></td>
 <td>
-<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technical_SEO-D9A93E?style=flat-square&logo=google&logoColor=0d0620"/>
 <img src="https://img.shields.io/badge/On--Page_SEO-34A853?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
@@ -132,29 +132,3 @@
 ---
 
 ## 📈 My Development Process
-
-```
-Business Requirements → Planning & Research → UI/UX Structure → Development
-       → Responsive Testing → SEO Optimization → Performance Optimization
-       → Testing & Bug Fixing → Deployment → Maintenance
-```
-
-A great website should be:
-**⚡ Fast · 📱 Responsive · 🔍 SEO-Friendly · 🔒 Secure · 🎯 User-Friendly**
-
----
- 
-
-<div align="center">
-
-## 🤝 Let's Build Something Together
-
-Open to **Web Development, React.js, WordPress, SEO, and freelance** opportunities.
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saif-ullah-portfolio-swart.vercel.app/)
-
-⭐️ Thanks for visiting my profile — feel free to connect!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
